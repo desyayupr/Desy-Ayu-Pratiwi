@@ -1,0 +1,3 @@
+In Python you can manage data using lists and dictionaries.
+In Python you can automate tasks with loops and functions.
+In Python you can build object-oriented programs with classes.
